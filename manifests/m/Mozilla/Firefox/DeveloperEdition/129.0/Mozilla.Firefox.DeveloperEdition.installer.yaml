@@ -31,1038 +31,1038 @@ ReleaseDate: 2024-07-09
 Installers:
 - InstallerLocale: en-US
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/en-US/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 1F3691A519017EBB2052C05B1E718BD408C205BAD179CC69230F5A1165CAAADF
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/en-US/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 33A52F7AC59F7802B5688EAAEC1BF2D37E8C0151F2BB5A2C91E2A7795553CC93
   ProductCode: Firefox Developer Edition 129.0 (x86 en-US)
 - InstallerLocale: en-US
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/en-US/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: BB5563B19EC3591E6674A03867AD42CA578F6604404088B92246370F167F6B51
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/en-US/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 56E191D81184AC4E9B959C57B469B06CA001DA3A57A11321A9DCE736D9D81254
   ProductCode: Firefox Developer Edition 129.0 (x64 en-US)
 - InstallerLocale: en-US
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/en-US/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: ACB4198A14C529D6530188DF3C07FABD62388FDA127D9C9E48A82D90850DC65E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/en-US/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 43313D270FB92B7C6D8CD6899B3B3FF92E72B67C1513003BFEB7A426190D2345
   ProductCode: Firefox Developer Edition 129.0 (arm64 en-US)
 - InstallerLocale: af
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/af/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4B7A25AA4168D8F4EE662C899BD3C49F1B95428743A4A9CE8F4A5435337D162A
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/af/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 2966F9A3B3E058DCC7794773184E88584115F31A23237A74930CDA3F0C0043DB
   ProductCode: Firefox Developer Edition 129.0 (x86 af)
 - InstallerLocale: af
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/af/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 3CEF355B558218B89AEEAFA407AEE5DE67BBB727C7CD806FEEDCD013FDDA49DF
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/af/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 311B0408029C4953A88491CC21FE24675B75BF1FA23C47A05A18ACE3FC9496F4
   ProductCode: Firefox Developer Edition 129.0 (x64 af)
 - InstallerLocale: af
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/af/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 28D1F4D214B050D073AA5BFAB1888E94CB481F0F5136031D6E25DF51105C2909
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/af/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: A40B8607B9EB67CA72C739B73521E519BC7008B822E2012BEEE6578977C83E39
   ProductCode: Firefox Developer Edition 129.0 (arm64 af)
 - InstallerLocale: ar
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ar/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 1C2E6DEF7C702CF2B2E51389D8ED63A6E635AEF9684BF8CB8AE8CC8F8E91DC14
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ar/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 54FF83ECA4DA8146261933AE3366E7FAEE6E2D542740F37F1E721CD00C7500F3
   ProductCode: Firefox Developer Edition 129.0 (x86 ar)
 - InstallerLocale: ar
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ar/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 56729053B389E078F0FFAB518A60A472437F81F565F1A1F557E888992174D318
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ar/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 6C2977BC55057734C8FFE679EA799D55E63621844D5311E407303FD20E98A925
   ProductCode: Firefox Developer Edition 129.0 (x64 ar)
 - InstallerLocale: ar
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ar/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 6292E4E96BE07A044534A10CE756E27203AD29EC57B3F518365C80621DD0D389
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ar/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 646ECACE0F498B536A89C82816BB0D16B80AB6FBEB7D9E22413A782F23880C93
   ProductCode: Firefox Developer Edition 129.0 (arm64 ar)
 - InstallerLocale: ast-ES
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ast/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: BC6D6E87B52DBA33A273F639787A740E9D19E50E0A955FA29BF84CEA35A9E873
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ast/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 4F2660353DB30C1C4D508C7061861FC65E606914BF79366EBB7D51B397353A1C
   ProductCode: Firefox Developer Edition 129.0 (x86 ast)
 - InstallerLocale: ast-ES
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ast/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 45799B8089E6926831636B02D17F35A85F75B26DC38CAB576B8A8467299B1700
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ast/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: B6ED8011A50034A419A8C3A8CA32A8752FCE119A247169098D9E7B43BFC650ED
   ProductCode: Firefox Developer Edition 129.0 (x64 ast)
 - InstallerLocale: ast-ES
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ast/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 3552667EB7EDEEC55C52D07406F90227D0D7FB441FCA1CDA5FAE8B629112E19A
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ast/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: ABBBD702971E665086114C53A627575B1AB450606D87D47C63D729F2E0CC99BE
   ProductCode: Firefox Developer Edition 129.0 (arm64 ast)
 - InstallerLocale: be
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/be/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: CA68B17F93172811CAFBD3FE1A00E4F4C46091A6447B77CCB61DD8383EA403DC
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/be/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F86685E92D4F1B7472128CA563568EADF4FF5BC41749B2EF8C76A1FFAC5842D2
   ProductCode: Firefox Developer Edition 129.0 (x86 be)
 - InstallerLocale: be
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/be/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: C67500C3C028F3DD78B0B09BD6ABDB775DB7F7C3D38E2C8404865B255CC060EB
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/be/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F15876BF8E4FBDDE1E72754B4650852DC8B0EC5B5DF0A4552719C7CC8D1C06D3
   ProductCode: Firefox Developer Edition 129.0 (x64 be)
 - InstallerLocale: be
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/be/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 1432DFF965D47BF71F131EAD0AE71D3AE9F57E4A2C930245AD9E5E914600CFF1
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/be/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 863A3CF1EF4DD5F790467B209395F9431023D3B7333458983429DB3191D7036B
   ProductCode: Firefox Developer Edition 129.0 (arm64 be)
 - InstallerLocale: bg
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/bg/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: FE9C57FF9EDEC7BCFCD983DBB9369D6905070BEF42898C2F934062656540B925
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/bg/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 8FC075D60774EB1E3268415E86B9A67AC9C349619E8708DB340B505224324AFB
   ProductCode: Firefox Developer Edition 129.0 (x86 bg)
 - InstallerLocale: bg
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/bg/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4CD76B872767CE557A3F539856F4DECE1714B16E8363CB6C4CEE5F4B73A47100
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/bg/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 423C90996A8AADBAA227D2092FC17D256A675D90093C332EE0C1345D1D23F98C
   ProductCode: Firefox Developer Edition 129.0 (x64 bg)
 - InstallerLocale: bg
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/bg/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: EEC7C0BA201BD1A8C33AA8D938A533045D9C903DCF936690868E4A95C7B4AF35
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/bg/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 5A1CF5EF0B0ED5B1BB87DEB39BDFA01608C446AEDE722B7D11A424548A968D12
   ProductCode: Firefox Developer Edition 129.0 (arm64 bg)
 - InstallerLocale: br-FR
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/br/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: AFE21DC80FD216A47F274F8D3840F5BF3E798C29B54ECE120EF93C9295552B55
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/br/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 1B6147E2359F82426FD39957EC100B0792EE77FA51052BC1F7731CFC5B9E23EE
   ProductCode: Firefox Developer Edition 129.0 (x86 br)
 - InstallerLocale: br-FR
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/br/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 6694789F1B9EE1AF647827CB2A44795EC0C19F03915D67CA5FF413D204E9AC87
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/br/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: EA030CAFC6309CB9ED5FB41B9A901CB500E2CD9BAF46E2EDBDEC00E23B424D71
   ProductCode: Firefox Developer Edition 129.0 (x64 br)
 - InstallerLocale: br-FR
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/br/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: B1A8365F45EE352806011610061B082D649429BD681F61D4EC73558E203ABDF2
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/br/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 62B0A6D62CEDBBAC4D59C811BE8E5146610EBBF0C8E1742070FEA1E4F0AE813A
   ProductCode: Firefox Developer Edition 129.0 (arm64 br)
 - InstallerLocale: ca
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ca/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 31A24E99106461E172C9A92E55CCDD7CDCCCEC894C23B2BD4158C5F3E6C29F51
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ca/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 9AD256BE30D1940E06215365AC8552B645AC945B82957A259B1ECD07C4982F6D
   ProductCode: Firefox Developer Edition 129.0 (x86 ca)
 - InstallerLocale: ca
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ca/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A94ECD4DC5691DE44BCB430B26D8E6D07D28B75BC7105E005CD75485A2EC0CA8
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ca/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 4C32AD6E69A1361498B75471339EBC0E8972646669B56BAE29C51B2831C380CE
   ProductCode: Firefox Developer Edition 129.0 (x64 ca)
 - InstallerLocale: ca
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ca/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: E399ABC380A6BF97D009D69EDDC7DFF41B97F59B860FFA991480B39B5E778CA0
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ca/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: BE64FFEED17519F300A2521EBDC63F4991EF89BDCE1DA92C4128F9F5333FE181
   ProductCode: Firefox Developer Edition 129.0 (arm64 ca)
 - InstallerLocale: cs
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/cs/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 27E24F95F0E52A7B46876AA26799C14D10A05E0A411D37520AB9F3E029F2F663
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/cs/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 87455B1CDEA363E6CFBA972724D4D17867F4C443961EB785410A9064F69DC47F
   ProductCode: Firefox Developer Edition 129.0 (x86 cs)
 - InstallerLocale: cs
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/cs/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 65ED65A033ED838B8A5E840D40D6792D49CFE2C865FD46D38EA390E38019721C
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/cs/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 48B26900CB3E81EF0D4877560BBFC00D8573F06E9F7C841FED617B24E04DF31D
   ProductCode: Firefox Developer Edition 129.0 (x64 cs)
 - InstallerLocale: cs
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/cs/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 0328A7E10B15E950A54CF0D5097809D72817259A18BE97231AB713D9ABD1ECBE
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/cs/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F44E1DA4A1E29A87548C8E9DA19C91AA469E6A473BD911F7141D2D4CC743FE07
   ProductCode: Firefox Developer Edition 129.0 (arm64 cs)
 - InstallerLocale: cy
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/cy/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 10ED09F69E5925DBD8C48985FF10F375C06772F3843EF2CE996F158E384F2BC6
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/cy/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 74B45D9A499611FE9A22BB08678F2ED93188C2DAD91132B42E5F157756156FCA
   ProductCode: Firefox Developer Edition 129.0 (x86 cy)
 - InstallerLocale: cy
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/cy/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: AE185833734006A473CE73BA0810BECFB7F2811EB6128E878D7205D66C889389
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/cy/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 23BBDA9596A2F6DF5F26B19B2C48D217357CB15B6A4B4A3066D8659EE8967DF0
   ProductCode: Firefox Developer Edition 129.0 (x64 cy)
 - InstallerLocale: cy
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/cy/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 7C4B1BF0A1B2C6B4CEE7316BF2A6F25BDF399CBCEE7B5D79DC5C5C9FE2758D10
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/cy/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 4E924CEF0B73E3D6B19BBF53265CE68A4B18277EEF2F32FD22184D6670711A94
   ProductCode: Firefox Developer Edition 129.0 (arm64 cy)
 - InstallerLocale: da
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/da/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 7FE1DAB43A2D0C24AC75107FEB7A2DA253B4C9E28EDF9E061A37D60E7E28FB5A
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/da/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 0B3CD4AC6674571D6CD01536B5C4661C2627E3DEC794D67AE9442D0F2E1E73C3
   ProductCode: Firefox Developer Edition 129.0 (x86 da)
 - InstallerLocale: da
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/da/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4DBBBA971F9F20709D317585538F75DD5203CC89912D290FA499396679E12FD6
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/da/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 00107AAC39B681D6F128793EA045C182086BB95A60B4884924F57748123F69AD
   ProductCode: Firefox Developer Edition 129.0 (x64 da)
 - InstallerLocale: da
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/da/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 756C39865C1CFBB7FDD59F29685F8ADF27FCE5949EE2B0DD2C1E99862675E8F3
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/da/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 99697D6D03FC57669CF2745E43ECF39242A279217B06C8B75EF6768EEF4B7B5B
   ProductCode: Firefox Developer Edition 129.0 (arm64 da)
 - InstallerLocale: de
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/de/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A6ACA248A2B00ACB60C687E5CAFFE1B475334B5941C45439CA5C1E0C9F4E0162
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/de/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 304F41E234803D2BA55957043DDE1CA8787612F26CF4569206E1584EE34FBE26
   ProductCode: Firefox Developer Edition 129.0 (x86 de)
 - InstallerLocale: de
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/de/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 2C849F9AE772186ECBE099E8142D9E64C8AA17A95183E3622C11A969B1D1D57C
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/de/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 6223F38264BBEAD9E5907CF41EC5E1FF3DE0CE1D939EB0684FE94C2DFD08B588
   ProductCode: Firefox Developer Edition 129.0 (x64 de)
 - InstallerLocale: de
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/de/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: DC15EE458C7633AA27BF40B985251746A2B3AF28DADC56CF71AD8AD8D97EFE01
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/de/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 6FFE80A2BE14EA2710C17BC7D5F31824448CB38B0EE9FCFBB1346710DE7CF9E4
   ProductCode: Firefox Developer Edition 129.0 (arm64 de)
 - InstallerLocale: dsb
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/dsb/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 8D57B8A83A8546C2410727A6117C6108323C2278DECE91F55657F16ACC917920
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/dsb/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 7AF726F6D9D342D7DD2C73C9E28A39701474085E7090B599754CBBF36B8D70DB
   ProductCode: Firefox Developer Edition 129.0 (x86 dsb)
 - InstallerLocale: dsb
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/dsb/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: DB61B2361F77671861789D3FF4062C6EA5AE7BA85D36CA520D04041642541A5C
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/dsb/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: AAC0D9F3D9AC94A2DD51037FEC4280BA8359ADA266FF19B64E93E8361DAD38AB
   ProductCode: Firefox Developer Edition 129.0 (x64 dsb)
 - InstallerLocale: dsb
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/dsb/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 2AB37A16A3E2F0B717A0232218B46CDFC217287357D30941F2838B6AD42C2099
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/dsb/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 7E9F4A8A922C735C7553843E60294D38C3E59DFD0D60A24D08236939047C35DA
   ProductCode: Firefox Developer Edition 129.0 (arm64 dsb)
 - InstallerLocale: el
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/el/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 661E74F1BFF20F7BEB45FF5BA5B6CEF0C08054365FF48DDC28576D4FE9BF287B
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/el/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: D144D5DAB79C23968676E770D58106F336BC29C4DE2D995FC5EDB585071FD525
   ProductCode: Firefox Developer Edition 129.0 (x86 el)
 - InstallerLocale: el
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/el/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 92B3FC73217E6C1726FCA4E09C8DFE571958E0A193977B409516E75E6A878063
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/el/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 6B2004E3F0002A0F072C6BB7C95040F4985D3756030C483D73A442841549EBD6
   ProductCode: Firefox Developer Edition 129.0 (x64 el)
 - InstallerLocale: el
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/el/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4421002E6533506A310C3CF28388EF2ABA76DF7E95A40BCDF00BF9938BB416B6
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/el/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F514C016E310A22737B92001B74731D4B17BEACFFD09D5ED6B8FB7FAF79D9A7F
   ProductCode: Firefox Developer Edition 129.0 (arm64 el)
 - InstallerLocale: en-CA
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/en-CA/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 3E1C2923ECC7BC5A94F6C9F4C62DE47C74FB392201531B6A0FE2A736F77D3F98
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/en-CA/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: DE6016BBE324D69C5BC07D01A43035163EA3E4DD795EA189C05804A12DABCDA8
   ProductCode: Firefox Developer Edition 129.0 (x86 en-CA)
 - InstallerLocale: en-CA
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/en-CA/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 47910B4FA2591800A2D84DAC12ADCC59B005773C51A9DE80542A3B2B9BE54CE7
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/en-CA/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: A8ADEEB81762D4CB9456DD82EEDD5AF52E6EB26106F6C878883370BF7E5CD5D0
   ProductCode: Firefox Developer Edition 129.0 (x64 en-CA)
 - InstallerLocale: en-CA
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/en-CA/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 0B718361E4C78CBB3A8AF315CC0E9270D231CE06F850DEB6C0141525A05A8D80
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/en-CA/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: B9456678C42FF706E1FBFA6414770B811675340D3CCD528196EE4F5A3483449D
   ProductCode: Firefox Developer Edition 129.0 (arm64 en-CA)
 - InstallerLocale: en-GB
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/en-GB/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: EA20079D689468C3ADD228DC41E43C4EA5DEA1431B0E815FEA1E430F79054741
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/en-GB/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F5D8742392A569C7D2DB80719C1987CDD7ED7CCC3770A8B1E8C5936467BB1BD3
   ProductCode: Firefox Developer Edition 129.0 (x86 en-GB)
 - InstallerLocale: en-GB
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/en-GB/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 9061DAAA21B2E485F8DE7C4E64C1B72D75A7058E69AD6774515D997F3E0DCB18
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/en-GB/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F654F193FCCDDA49027916FEB2582F4F8ED7290F45673FAAA379D3B685E04BE4
   ProductCode: Firefox Developer Edition 129.0 (x64 en-GB)
 - InstallerLocale: en-GB
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/en-GB/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 280BF01E37170F852719C22CCFB099EE694CC4E545FCF9D42893761477CB43A4
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/en-GB/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 1359BC692AF98C1A3E9E348BF0BC2D7364633661FA262D24D0461F18B69F7AEF
   ProductCode: Firefox Developer Edition 129.0 (arm64 en-GB)
 - InstallerLocale: es-AR
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/es-AR/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 79736C3A161BB9D45E064C844C78E1591BFD3B45F1764A392A48B583CBFE75F4
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/es-AR/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: E931A1616FFC08698BAB6E4869C2A99316BA03FF86BB2EA145F37D882D4A99D3
   ProductCode: Firefox Developer Edition 129.0 (x86 es-AR)
 - InstallerLocale: es-AR
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/es-AR/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 437A61350DEB1AE5609A57238A2D790B2B2D87EBBB8BF7CA6831620C5E10C935
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/es-AR/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: E640B252E4227C9BCB7CF2C548F2C5A5746A40A2D3C762F813A04C5ECA912343
   ProductCode: Firefox Developer Edition 129.0 (x64 es-AR)
 - InstallerLocale: es-AR
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/es-AR/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 0BD463229A97FD000D1804CA5811B39BDC58069D50B8AEDFB475B2990536908C
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/es-AR/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 0C9E56E1D1593687E854A32CFC2D15E56ED617B460E8D5AF840027EE253B1D26
   ProductCode: Firefox Developer Edition 129.0 (arm64 es-AR)
 - InstallerLocale: es-ES
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/es-ES/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 161F5D4B028373B92A757F588AA818E7390B6D9D3B62CC281FEABF187956975F
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/es-ES/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: BEDDD4570BC4B5D9E0B9F1E0074265A814EF19870C57809E972B23378DFFFE2C
   ProductCode: Firefox Developer Edition 129.0 (x86 es-ES)
 - InstallerLocale: es-ES
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/es-ES/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 362480DBCB57B99CFD5E15FAB0A1B296C08843E13CDC020E734D10C62B29B9F1
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/es-ES/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: FB47771A8B5D7940F09B2A17F9F751A23DAA0DEFE3B7905E5BFACF98445A6617
   ProductCode: Firefox Developer Edition 129.0 (x64 es-ES)
 - InstallerLocale: es-ES
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/es-ES/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: B80F843828A42ACBC8B1B5CB80EC069200B3A2A7D8945C7555E93F4ECAC8A932
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/es-ES/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 553E95125D01500A03AA66A5045412381894445487C973937FEE933A2E17AADC
   ProductCode: Firefox Developer Edition 129.0 (arm64 es-ES)
 - InstallerLocale: es-MX
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/es-MX/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 8B161603336E357E61FBC05D9E4AEEABB6A403E505B0F3E174168100D5368A94
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/es-MX/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: BED40243984E4BF759E5311DACC7DC467E65C33CB1CC575AAB3D770EEBFD7BCD
   ProductCode: Firefox Developer Edition 129.0 (x86 es-MX)
 - InstallerLocale: es-MX
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/es-MX/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: FEF1AB0D1161383C6D79D4B82CD8EF36B46DB7DA19F4D3835B75F1A21883BDB6
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/es-MX/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: FDF133F80542E7ECAB1EBA47A5F5CFB27A186B35629E9D9A2989EB4956E713FA
   ProductCode: Firefox Developer Edition 129.0 (x64 es-MX)
 - InstallerLocale: es-MX
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/es-MX/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: C363EB4F9846C940D7B83BA8A1137D8B0FF61A31B1CB581D4DB656E4B4C8EC58
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/es-MX/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: E0AC5A76A36EA5AAAE7793AF4FD0A76D3C7C1882121BD56751FD1F5F3AA328ED
   ProductCode: Firefox Developer Edition 129.0 (arm64 es-MX)
 - InstallerLocale: et
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/et/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 9B26F72DE2DBB98276555E2A4DCD172EA80F4B92A40E2429BF87AF65684C2C49
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/et/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 8686239F48E5EE80DEA6F9E1EDD3E07823299D09F5370E0392E97A6078588C7E
   ProductCode: Firefox Developer Edition 129.0 (x86 et)
 - InstallerLocale: et
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/et/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4DB87B83E7DDB54DAE3E42A9AF4E222965F53457F163CB4A19DE06A917369263
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/et/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: CDB345775DE6F5366B32863E5B9F7BA0A39969081475804D58FAE881C31417CB
   ProductCode: Firefox Developer Edition 129.0 (x64 et)
 - InstallerLocale: et
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/et/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 5536AE80FFF7F2600D617E952A1EA354A9FEDCD8AAD4197379D93E257B878826
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/et/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 58DEA883131D39BFF50786B49AFF11CAC60CDD899005FC7F3312AA33183FE1EA
   ProductCode: Firefox Developer Edition 129.0 (arm64 et)
 - InstallerLocale: eu
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/eu/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 747F1AA8573EA471F16C2C924638657B1C3F7ADCEEE9BE71882A0665B850E59E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/eu/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 071C6BA6C0A9CE19FB9DE72F1E3439F067FA37D4E65CCF05C3D4A8B5AA15A0F0
   ProductCode: Firefox Developer Edition 129.0 (x86 eu)
 - InstallerLocale: eu
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/eu/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 5C8A50797468B55C7F841DCF890D82EEB506EA66DEBAB8D6150F3C08A9B8307F
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/eu/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: D072DFB288D94C64A7A43BDA81AD5EFF80ADDE1D3044FC0C04542A79B5D3EE05
   ProductCode: Firefox Developer Edition 129.0 (x64 eu)
 - InstallerLocale: eu
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/eu/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: D1F97D0CE79CA5E7FF5E4A13643B1F2DF1F1A452D68AFA83F5577C539FE47005
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/eu/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 483CB722D733981883ACB72327D852246C0CCC4DBC8E0E82BE0E6944731B7604
   ProductCode: Firefox Developer Edition 129.0 (arm64 eu)
 - InstallerLocale: fa
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/fa/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: B04C254A6CDECC55CBA1F4294A0A24EA8CF71A6925C90CC93CD98D51CD61A861
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/fa/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 0F9F52EFEF247F50D8C2D28CC8D433C7865981E6808EAAE08DCBC1C587DC704C
   ProductCode: Firefox Developer Edition 129.0 (x86 fa)
 - InstallerLocale: fa
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/fa/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 00AB2719ADFF0A18D43CCA4ABFF77C6121D5B50B7E5A08F93B2FA437F089A99C
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/fa/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 264DDF9D68854C136739F8879085BE043D75F361AB8D4F62ADD126A358D95775
   ProductCode: Firefox Developer Edition 129.0 (x64 fa)
 - InstallerLocale: fa
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/fa/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: DC9E941EB17260016F267FC8B56EF8EF35939DC638F636786E78F66D8DCA1D36
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/fa/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 22B33B75EF7DC89CC571D21C40727EF8AD654B6338A5FD269FCEF31A523162B1
   ProductCode: Firefox Developer Edition 129.0 (arm64 fa)
 - InstallerLocale: fi
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/fi/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 33668A586558F01C9323FDC4AE83C22783BDEDB33EF0B485F7DA2EB6B26D17ED
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/fi/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 01AD9C6E562FFEDF1AE65254353EEC518EC3223A23FFF2B9DE2219CEFA514CB0
   ProductCode: Firefox Developer Edition 129.0 (x86 fi)
 - InstallerLocale: fi
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/fi/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: E2DDAF23676C86AFCBE84EB481BA0CC4143EA42E3AC1AD6A11730C6367A37F9F
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/fi/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: E117831673DACC0C6E356B94624CC9681AC9466931E815DCB25EB68B99D886F5
   ProductCode: Firefox Developer Edition 129.0 (x64 fi)
 - InstallerLocale: fi
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/fi/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: EC2D84810B50988B5629813D207B3F1ED5446A8EE2C921D0079389FF248CDA29
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/fi/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 6E01B5C1235205E0CBAAF6260FA8F6FF59A8A3694DFC87C8C17D4331D1D07EF0
   ProductCode: Firefox Developer Edition 129.0 (arm64 fi)
 - InstallerLocale: fr
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/fr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 228EB490F50CCB96D1F02D05308CCC5DCE5D6D30DCA99DD732EC4986316E16E4
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/fr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 3DE09F22C36AB81DBB72F4BE78BF9BF16EA08D63C50E0E7E28D59EC4B4A36394
   ProductCode: Firefox Developer Edition 129.0 (x86 fr)
 - InstallerLocale: fr
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/fr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: D3F3689C47C8F3E4C7D04AAA5F0E562BBE43939A3859AE07BED1C5633DE20C31
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/fr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: EE640B7CD5849E801798090303FD2F1F77B8CC06A8B61CAD6734D691ACD9C900
   ProductCode: Firefox Developer Edition 129.0 (x64 fr)
 - InstallerLocale: fr
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/fr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 30D1F221DD2AD3A7C11E895976E3B5F08F2165C7EDD41F2D0B9797E0F982DA38
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/fr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 6E9A6E5B40E63961188B2B52DB9EFA6E46CD5B48E2FF06501E0F3535CB4EEF87
   ProductCode: Firefox Developer Edition 129.0 (arm64 fr)
 - InstallerLocale: fy-NL
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/fy-NL/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: D6A905136AA8A413AA1BE1838332033A0D79B9EFDB5BEB4EAB4A8D120AFA9672
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/fy-NL/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 9C28771BC590FF3C35A63DF17CF3AE548F16F25D8DC1F00BFCDC7C0613ECC2ED
   ProductCode: Firefox Developer Edition 129.0 (x86 fy-NL)
 - InstallerLocale: fy-NL
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/fy-NL/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: F1F7CC8D74D597CF545FFC48E4E71FD69860ED709DA27988A2DD827C497E903E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/fy-NL/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: A91CC8622BF8D85FEEAAC1BD1CE318CF170155BD5A7A1441CEA7BCE0460E50F4
   ProductCode: Firefox Developer Edition 129.0 (x64 fy-NL)
 - InstallerLocale: fy-NL
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/fy-NL/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 75CD499EA545F73969DA54693E4406689388FB45D46689FF500FC049230305E5
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/fy-NL/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: C494AAFB523B9EC2C6F12FAADAE5AF0BB891E1C525F675ABCEDA9DC199C626C9
   ProductCode: Firefox Developer Edition 129.0 (arm64 fy-NL)
 - InstallerLocale: ga-IE
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ga-IE/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: ED57444C29395262B51B0776B9DC0D89669DE3EF01605F0341E924353D767FB9
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ga-IE/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: D19C2D84C5C95AA92D863723A3A8F3B79E55DC7D651A19B00AACFF14588714EE
   ProductCode: Firefox Developer Edition 129.0 (x86 ga-IE)
 - InstallerLocale: ga-IE
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ga-IE/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 37FD6EC9D97DEA0E594D2D8D5458CD5C1DE6394945C9C3BD0A4704182ABA419C
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ga-IE/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 17E13C979E3C080832C3B07F4FCDA8523719180E733F3B7111FD1ABB6D59F79C
   ProductCode: Firefox Developer Edition 129.0 (x64 ga-IE)
 - InstallerLocale: ga-IE
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ga-IE/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: E4F23DDBF9D2999998DCD9B1850E15C46BCCD3D913630F3C798FA41ABDEA128A
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ga-IE/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: D377FA08C2529D7D83C8B689E81B9A9F3065C8DFE7F0C8DE895B21FA117930DD
   ProductCode: Firefox Developer Edition 129.0 (arm64 ga-IE)
 - InstallerLocale: gd-GB
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/gd/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: F9A5298B7FA85DB6B8D7F736FB54E6A37C35046927A77031712A7798658FA738
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/gd/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 54FF212119CD3921B6A3DDBBCAC824DBC224C25A9BDC7227922D276D614CDA66
   ProductCode: Firefox Developer Edition 129.0 (x86 gd)
 - InstallerLocale: gd-GB
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/gd/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 125061E656086B205EC742E94CBDD8C54F29E153BC3CDF8F06E9699612DBCDC8
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/gd/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 8BE7C0BF03748D65E23AD75F7D7CF703A1E5675DD959C85BAB3E555A2B616000
   ProductCode: Firefox Developer Edition 129.0 (x64 gd)
 - InstallerLocale: gd-GB
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/gd/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 9C28FA06ADE1D38B7021013CC538D73898E2D56BD544F4FC5E1E9E50DDFD67A9
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/gd/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 14C4C3D9577A5722B016F39D63386EDE6611598D63253EA78062AEAA255DD470
   ProductCode: Firefox Developer Edition 129.0 (arm64 gd)
 - InstallerLocale: gl
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/gl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 1C728E5BE488A4650C9835EF485901E30FBF185F94A3C62DC4BDD23BA377B6A7
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/gl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 47B34C35FF681CF5DB9C9434E74E6EE6C768BB5C77D6A069409A98085ABA9439
   ProductCode: Firefox Developer Edition 129.0 (x86 gl)
 - InstallerLocale: gl
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/gl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A27FF3F8D7B709466316EF409B15CD5B176BE975FA6DEE0E30739AA99F81AFCB
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/gl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 8A541151EC90750BC9A32525AF43556DC915CEE94FC613B519649880E05AC16D
   ProductCode: Firefox Developer Edition 129.0 (x64 gl)
 - InstallerLocale: gl
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/gl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: DEE4F174F6021A10F9F0B3513466B24819FFA9B0B5541B21AB30DEAFEF9217D2
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/gl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 0D9E448FA5BCD8033FBC9F2984FB7C646E7CD0101BD33155C54B6B00082E9AF4
   ProductCode: Firefox Developer Edition 129.0 (arm64 gl)
 - InstallerLocale: he
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/he/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 448C1E23000520DDDDAB80D80D180F737BB18BC95E28898435E5AE9173853935
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/he/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: EC657BEED4D6849D4D3928F6259025B2CE2BC6F82092A190D6AC122B2995A390
   ProductCode: Firefox Developer Edition 129.0 (x86 he)
 - InstallerLocale: he
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/he/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 56EB5AE06FE829948EED6AB144C6CB8B2958866B0DA1A4CF0867FA165FA7C08D
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/he/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 92C3D6D904231696DF59C73FF9B66C3DD1DA56B01C95A45121ED4A047E5F44B4
   ProductCode: Firefox Developer Edition 129.0 (x64 he)
 - InstallerLocale: he
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/he/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 0854FF3E95FFC53E631854389644EA8AC2FBAEB8946393DD25FC029D39AE147B
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/he/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 9B8CE8BD76EB56E705C515C7FC9E34EA01A041F1E67F03066191B216D272A294
   ProductCode: Firefox Developer Edition 129.0 (arm64 he)
 - InstallerLocale: hi-IN
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/hi-IN/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 37F7AC8DF47F8010A41A6036779B9DDF2FFED7B68BB3D68167F4629769A091A4
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/hi-IN/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F71C15A0453182AE90890A0744F82CFC8CEF76EE77F1F7023D7C4ED8E4BF6A76
   ProductCode: Firefox Developer Edition 129.0 (x86 hi-IN)
 - InstallerLocale: hi-IN
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/hi-IN/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: F93E997D927D0A8E11F40CB1C6041324570AEB01F5B4C7E6A5DC10BAF443978F
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/hi-IN/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 00CEEE8150B32DC02F183B2FBA0DC2582CE9D483AAC10606FDFAAA91E69D6864
   ProductCode: Firefox Developer Edition 129.0 (x64 hi-IN)
 - InstallerLocale: hi-IN
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/hi-IN/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: FA6481EFF2175AAA7EFE1DC1394BDA28EE3392F4A7E58CF671F7D446D9E212E4
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/hi-IN/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 7AC57B9568B201B2DE52252413D6469AA63C433D33362DD98B36DD6C4B08E2BB
   ProductCode: Firefox Developer Edition 129.0 (arm64 hi-IN)
 - InstallerLocale: hr
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/hr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A7CB6B827467EC28CE8E7C9D53C1A4E2686DB4858F226F0DA955A537CD14C5FF
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/hr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 4F71B47F3524488DD7295BB99103A4B765EBB8482D093CA9DD47D7501962560C
   ProductCode: Firefox Developer Edition 129.0 (x86 hr)
 - InstallerLocale: hr
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/hr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 1BCBB0597BEE9A774159A73F988537D81314D0ED2507F151F5A48041043FB589
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/hr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: EA73C4667D573CBFB278C3E4FD2778AACD05DAD792C04633D3658521D186C739
   ProductCode: Firefox Developer Edition 129.0 (x64 hr)
 - InstallerLocale: hr
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/hr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: F9AFC6C0362DB793250E0921A53B5F2948D4982393EC9895CB444486CB406281
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/hr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 2699A2CEA782A973B7C92CC970B5A5B3E3254F0D4EA5D595B4500C4B302AC9A1
   ProductCode: Firefox Developer Edition 129.0 (arm64 hr)
 - InstallerLocale: hsb
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/hsb/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 45151F4E8E653CAC59BA1359CFE9C24CC01D376D42E439CCE8843C8F3C26B22E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/hsb/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 032CFA1450CCBD44DB986C773795D649E54EB5137888945132236C1143EB22B0
   ProductCode: Firefox Developer Edition 129.0 (x86 hsb)
 - InstallerLocale: hsb
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/hsb/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 8EAF742312008CDCAA23B141A902B73F79C1B930B6182E4C69EC87198914FBC3
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/hsb/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 5754D0874969FEF087FCC0FB7553D74962831F5BD41CBF1363428CA2F42F5D8B
   ProductCode: Firefox Developer Edition 129.0 (x64 hsb)
 - InstallerLocale: hsb
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/hsb/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: CEF5F126A0EBF625CEAACAB7826C3B8437534D70850764A3EB825C545A76A98F
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/hsb/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 69BF07AAF8FCB7BACC74AC8B4CB9D7A9517D7E11F3747E395AEE739438517B81
   ProductCode: Firefox Developer Edition 129.0 (arm64 hsb)
 - InstallerLocale: hu
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/hu/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4D1A325FA7DD9C391C34AAFC8855CBA32FA04F697DF7A282C7C26391DD29EFBB
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/hu/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 4DEA0F4E7F6C145B4240D9FCE91505BD23216BF206E1265BD0028BF73A9ED3D6
   ProductCode: Firefox Developer Edition 129.0 (x86 hu)
 - InstallerLocale: hu
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/hu/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 2A37F9DBF987F63CB411632492C563216A7AC648ABB5DE7AEC6AAF3A2DCA7636
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/hu/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: A2F52330CB08154CA17E9028EF7A8887A8E2193BA86A8331E6CA547CF1D58407
   ProductCode: Firefox Developer Edition 129.0 (x64 hu)
 - InstallerLocale: hu
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/hu/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4316D488750CCF38718C8769FCC53A23EF776534B2F0C30DF6718AE615F1431D
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/hu/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: C655AA15E32A734EEF5E7CCE88A0C4E8798CE6676428BC685FA9BE1099A16134
   ProductCode: Firefox Developer Edition 129.0 (arm64 hu)
 - InstallerLocale: hy-AM
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/hy-AM/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 7BB9E66996AD922AD435FFFC4D408BE7023A32CA056A7AFDE7B0CE855545044E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/hy-AM/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 12BBAC941FC8FE51AD3D0018760A86A74C315106BA983E848066D91A07FAF34F
   ProductCode: Firefox Developer Edition 129.0 (x86 hy-AM)
 - InstallerLocale: hy-AM
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/hy-AM/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A9E74D13621999AD13292E28FD1E5D42F33D900DDD43156CD0E357EE341AC3A8
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/hy-AM/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 23B2DF461DD710C6FB833F5D98017B32B96BE665574B1AEB027BEBF46A046B23
   ProductCode: Firefox Developer Edition 129.0 (x64 hy-AM)
 - InstallerLocale: hy-AM
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/hy-AM/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 743F1D623B9DC9D76D62FA1D9517904E8F0404FCB3E1D48DE3EB2AF650EBAA22
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/hy-AM/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 0B66494C4C0BE153691A288AF290B8519F2A1F9BE8DE9696D01DFE73B65623C5
   ProductCode: Firefox Developer Edition 129.0 (arm64 hy-AM)
 - InstallerLocale: id
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/id/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4CCC19C0A86FFC8DC847CA6FC244D8F71D5C12C297E0E4DA5C08D6EF92B9B71E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/id/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 0085F028504D5D2FD8EDB7FD6C6B31EED8F8CC261283588CB2407B67DE8CD15B
   ProductCode: Firefox Developer Edition 129.0 (x86 id)
 - InstallerLocale: id
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/id/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: BB38614F1BE56DD1E42FD8DAD3CD0E4B84E9FD6A5FE7473FAD4CA27BC4EB7B14
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/id/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: A5CC280C5D654195F411568B58F7F30768C27A6ADB3A0F57871E2F1985812B8B
   ProductCode: Firefox Developer Edition 129.0 (x64 id)
 - InstallerLocale: id
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/id/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 3F677A80B9480B36032D5D230001D54A5FA6A9A08D1D3F8F8BC78E2ED4D4B0C1
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/id/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 7827FA7E11ADC7D40F5B9A96E4426AC0DDB35DB504262DA31DEB168B0101A505
   ProductCode: Firefox Developer Edition 129.0 (arm64 id)
 - InstallerLocale: is
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/is/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 0C3E2A7E8CD872AC684E86ED88E79DBB606BF7B23C4AF0E7A622AA974BE47E87
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/is/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: ECB63E95E8DAE021B4C0AE90BFEABA4D857AEE00FD84B2740BE999DCAF7894DB
   ProductCode: Firefox Developer Edition 129.0 (x86 is)
 - InstallerLocale: is
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/is/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 209C0F36D488F9E3EB2B42B88DB364EF9E26FA79F901CE932C211B2505789EE4
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/is/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: B73F2B55A858E4C356C80BBDD2A2F74562A2F39A52099E71D528009E7FF93B38
   ProductCode: Firefox Developer Edition 129.0 (x64 is)
 - InstallerLocale: is
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/is/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 9A06D50CCA24F67A314C0C15875C04706F12B87D1D5D2A3F77AD2EC792AB24E7
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/is/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 31818FB13DFBC453CC6512BB3A848CE06E903E395AE693769437D871A05562C3
   ProductCode: Firefox Developer Edition 129.0 (arm64 is)
 - InstallerLocale: it
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/it/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: C77EB8471C7B4F7CF0E1DA27D09333EACB9BFECB36727BFAB526A31C8C4FDAF1
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/it/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 2985134AE1906B28B3FBE143B647EFAE7043C9DAC85767E7CFAB54CF902AC7BD
   ProductCode: Firefox Developer Edition 129.0 (x86 it)
 - InstallerLocale: it
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/it/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: BECCD393D95C8F00B85CE3B85CF4BDBB1A8BA89F47A7C3513635FBFAB11E35B6
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/it/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: B7ECCA3C0F8FE3B1DE60360A372E3D35A08898AC47EFFEA476E47F66B4CB344A
   ProductCode: Firefox Developer Edition 129.0 (x64 it)
 - InstallerLocale: it
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/it/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 8E211F63046444BF4D69E3715DA1B15E948B8AAF52358326FE8361A2BC2EFBF5
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/it/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: ABBBE5ECF6CA3F161E01CE571575E9EFAFD8EECB5A4404B4865E262042961D96
   ProductCode: Firefox Developer Edition 129.0 (arm64 it)
 - InstallerLocale: ja
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ja/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 56118274B7519C8D547B16C3F26007290D608C564A57D33CC10C7FAD89CF2042
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ja/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: CAF08847985E09841397B9975420DF25F9507AECE53EDA4A8638FF13799EEDC7
   ProductCode: Firefox Developer Edition 129.0 (x86 ja)
 - InstallerLocale: ja
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ja/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A3150B4AEB716FBA825F0C6C042DAAAA65E05A4EDF8037EF8BBDA7C9CD6C304D
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ja/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 4FB91D0E658FB2B48727242E1C9F2D19DBEBC81B80E3AE2254CDFDD228D6C754
   ProductCode: Firefox Developer Edition 129.0 (x64 ja)
 - InstallerLocale: ja
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ja/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: C7F21333028F353E1728A6A712A914B0409CE678BB39DD3416B0A089C7461906
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ja/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 326CAC562648302B17A9963CED31A35E15993FA253FD8AA1839B70CF592F095C
   ProductCode: Firefox Developer Edition 129.0 (arm64 ja)
 - InstallerLocale: ka
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ka/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 25E059A6F1433217AE9E9F5776CAA2A98B245A87164421DFC78DE54B775C469D
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ka/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 92E41E38EE2E068D6DD904A81B643314F7309B8DC3DDB4CEA05AB372D017A452
   ProductCode: Firefox Developer Edition 129.0 (x86 ka)
 - InstallerLocale: ka
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ka/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: D3DF1B76DAC44A0F7BA2A625FA0FAF2238AE736C7B33DD4EAF916A3797CC4A75
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ka/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F4174A37A8A9C57D5EE700914EA29C725356DB23E1C516AD250EA9114FAF6083
   ProductCode: Firefox Developer Edition 129.0 (x64 ka)
 - InstallerLocale: ka
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ka/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 2FD654C8A920DD3D83372A0C5D0DB3AAEF0F2198F72EF21BC13D0235E6060500
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ka/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 8522209B7CB862DB107C98A632A44F725AD7C2129A0224736A8BF8EA80381BBA
   ProductCode: Firefox Developer Edition 129.0 (arm64 ka)
 - InstallerLocale: kab-DZ
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/kab/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A8A21DE71C3CD67F780E57E133C929A511A4300E5301813E3A070797E39901AE
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/kab/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 3549ECD79D6F5A8B2644B4D64E3C07B7C18892ABF22D713EFA5BF4F6FCDFD0F2
   ProductCode: Firefox Developer Edition 129.0 (x86 kab)
 - InstallerLocale: kab-DZ
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/kab/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A7DCEC311817D0E1A96F0BBBA57DD83E07C9B9F61B547796FE30EB02D5414853
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/kab/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 01028A32183ED7902B54BCC05E227D2053815DEE5FF6A80061F6C108B17CF289
   ProductCode: Firefox Developer Edition 129.0 (x64 kab)
 - InstallerLocale: kab-DZ
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/kab/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A50AFDDA60AA7D7565ECC30008A06AD5D7438BBEC5088AE316FA20EC9268C771
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/kab/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 3BF7C8366D0570B5EAEF19B19764C66283211ECE2F9966EC7BA0A5B623062B0A
   ProductCode: Firefox Developer Edition 129.0 (arm64 kab)
 - InstallerLocale: kk
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/kk/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 42135134D0AAD25F297EB6B3664EE1C0EF82B3559B43F704348961CE6A8352EA
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/kk/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 2A0196093846A3191DFD0DCEB9692B1E31CED78C8CF8B299FF3312C3B02F6E1E
   ProductCode: Firefox Developer Edition 129.0 (x86 kk)
 - InstallerLocale: kk
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/kk/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 88E95083E433700A72502C67FBFC7125F264DE2C1DEF379B20F63B6BCEA2A340
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/kk/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: BEC83694760B5CD2F9CB58F9F226D9FE358BF22889A4B3BAA330F749E0F351D7
   ProductCode: Firefox Developer Edition 129.0 (x64 kk)
 - InstallerLocale: kk
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/kk/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 303031A65BE6B9588CD6409BE47E3EB0ACA8829B0061E2D2C219C9DBDD957D69
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/kk/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 1F45466DB07DC6731CB551F3C22970747B392FACAFBE87C4242437571FFB07B5
   ProductCode: Firefox Developer Edition 129.0 (arm64 kk)
 - InstallerLocale: ko
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ko/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 2BD85E1F425BB1004477E7F1252F96054B49BE240E8465DB83BC44F849B1F0F7
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ko/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: C1CF6324F2DEC6C08C52BF1B8A572A802BAEFC19C950348BDB90B8B0B61C03AE
   ProductCode: Firefox Developer Edition 129.0 (x86 ko)
 - InstallerLocale: ko
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ko/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 505899F1C60E5BD791D5ACB45B76994040A74BB16FDA8795B4CD2C3D0062FEEB
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ko/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 14B67AA1D86B6C02C205CBD8F05D2ED7E2E0503E1AF2E8AF4D36674477CC4708
   ProductCode: Firefox Developer Edition 129.0 (x64 ko)
 - InstallerLocale: ko
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ko/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: F39A710ECD6BBFC3B02EA43673D38A53373B55665FCEA5AFEFD3AFB5B3F7B297
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ko/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 9C8080B1E8C5EBF1B7AE6852872B7302E219674AB125A3ABF7ECC99BE731207E
   ProductCode: Firefox Developer Edition 129.0 (arm64 ko)
 - InstallerLocale: lt
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/lt/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 31BE6B6F152E111C49F315506A2703DE46F5D52A7E4B6DECCB20FB365343C7FE
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/lt/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: EE63CBF26C7F20648BA33EEE85DFD2A62C612A059F182FAF09A2D668B9D9DFFF
   ProductCode: Firefox Developer Edition 129.0 (x86 lt)
 - InstallerLocale: lt
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/lt/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 625DB459CBC876771B283C513CFF0E48A7DB5564F1B394AA8FBDF27380BEA03E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/lt/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 5929E40D01B2AD36B30E077D996D73CD450136DAAF81C958DCC11AA68825EDE3
   ProductCode: Firefox Developer Edition 129.0 (x64 lt)
 - InstallerLocale: lt
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/lt/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 15AB52068254A12CB40F5D577EE50F7834ECE74253F10C955849FC0AB1BFC4AC
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/lt/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: A62EC92D6F1607E52BB9BD05FE46264FC877DBB821201C364BA7B5FACFBC8139
   ProductCode: Firefox Developer Edition 129.0 (arm64 lt)
 - InstallerLocale: lv
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/lv/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 63CF1029F2704C4CE008A8F1A776D274C4B7CDC397945ACE6D2071A932E395A9
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/lv/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 7D61D58B422C00523598EE77C47F58A39203DB8DB97CD7B0B5721E0180F1DBB1
   ProductCode: Firefox Developer Edition 129.0 (x86 lv)
 - InstallerLocale: lv
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/lv/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: ADD3AC49BFC4A6260BE0C972DE46B85C94CF1C9CBB3946B7D978F9B6D2EA4ECC
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/lv/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 646B1CCDDAC674F5C019C441200A62B2AFAD5A9E134A48C99633CD25EBD994F2
   ProductCode: Firefox Developer Edition 129.0 (x64 lv)
 - InstallerLocale: lv
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/lv/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 18F2264C2ABE57E860E66762868B369A171540E969DEDA7D90D5615DC3FB2AEE
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/lv/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 8CFFA79386D39FDD5FD484F170180DECDC5BA48F0CAE6589B925B4E303E958A4
   ProductCode: Firefox Developer Edition 129.0 (arm64 lv)
 - InstallerLocale: ms
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ms/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 6C0877B7BEC5C618CCBA994DE6F9BE02443AF010528457764B4EBFDB28FCB148
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ms/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 8AB9E20F25E60E75FD8BD08BE60E46EB8E36B6FA1126C555F724DA71CDAE0B58
   ProductCode: Firefox Developer Edition 129.0 (x86 ms)
 - InstallerLocale: ms
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ms/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: D59F0BD6E329481D610A4E62815DC2A08FC7C583673D204416E064A36B8B5843
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ms/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: D3476342DB5CF2ACC2E00A4834F3EAFDF83FC984D95DD3A3C67E08FAAD51A7D6
   ProductCode: Firefox Developer Edition 129.0 (x64 ms)
 - InstallerLocale: ms
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ms/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 5CF83D9B8E972F6C57FA5BC0D22BABF2E19D57EF63D8C6467278198214AB1769
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ms/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 99E0007B2F3D2AD062A530C6B7A65D7853900A54A349D63B05BEFBA2B45AB0B1
   ProductCode: Firefox Developer Edition 129.0 (arm64 ms)
 - InstallerLocale: nb-NO
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/nb-NO/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 025436BEF37B1918A9E676E3810D5A9728F60D26192CF281977A2039BC6B6A4D
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/nb-NO/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: B11990FD3E8F029558B2373911D90C8DC55E52B59BC8A79B7678BEB2E5CAD97E
   ProductCode: Firefox Developer Edition 129.0 (x86 nb-NO)
 - InstallerLocale: nb-NO
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/nb-NO/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 610426ED8DC26166CA9E8A260330FCA9A99752F1CD0FC41E068D8E283B6AA5CF
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/nb-NO/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 621CDDB700DD4FBEA9A2B325BD1BDEDEF216ED0CDB685998E05C1157D2B649FC
   ProductCode: Firefox Developer Edition 129.0 (x64 nb-NO)
 - InstallerLocale: nb-NO
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/nb-NO/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: E61CC40F016CF1299E775B10CF53FDDFA29D4B829052D313D6B84848E73DF977
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/nb-NO/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 9A08A51688242E24C386D70A5383C7C4B8F7258A2BE23C111BE764E11A5F8A38
   ProductCode: Firefox Developer Edition 129.0 (arm64 nb-NO)
 - InstallerLocale: nl
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/nl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 51816427154B2AE649BB9680EDC2003F8784A0E0F9858C6E2BA49BD74718B02A
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/nl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 98C085D8B349022D493A9EAA022E3D4720706E9FAEBA631DE8CD4E620F08665E
   ProductCode: Firefox Developer Edition 129.0 (x86 nl)
 - InstallerLocale: nl
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/nl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 17FB2A6888BB2A23B6EF9001F32CE9AA5A6C02D09F4659EAFA8C5EE7A882F453
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/nl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: E2E0800F92F56B6C05C99E9D6AC19E8EB62D2988AD4E740ED60A64C3BF08CEAB
   ProductCode: Firefox Developer Edition 129.0 (x64 nl)
 - InstallerLocale: nl
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/nl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: D2C5C74D82C55689197D6E598A2C072D7CE9FF0D21C808C1335DECC23F7E996A
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/nl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F636F5E5CFEA4DB7A31498889F7C130977CF64B5FAF970128404113F28738B0B
   ProductCode: Firefox Developer Edition 129.0 (arm64 nl)
 - InstallerLocale: nn-NO
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/nn-NO/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: AC796DF7C7A0B85B1BF74551CC4FC426DBAF6B0A61F0AA16C32C16AEFB6E6E35
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/nn-NO/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 69D0CD48C712FEFB0B47D1CF7FFCE3D2D96535320E41D7BC01B192FE6509D0FF
   ProductCode: Firefox Developer Edition 129.0 (x86 nn-NO)
 - InstallerLocale: nn-NO
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/nn-NO/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 81F9F22CDD129D4530D6AC6705E5ECD41A641B9E1549BACD006B941A15C0D0A3
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/nn-NO/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 9B92ADFBCD0389618D08860E376320B1FB8D904042672C01DA7721FF20DC6F2B
   ProductCode: Firefox Developer Edition 129.0 (x64 nn-NO)
 - InstallerLocale: nn-NO
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/nn-NO/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 74752EA71BEA2DCF4D57BA2DA33127606AC767FEE3F6C5B05F4947AC7740C9E0
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/nn-NO/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 7101DD5EF2513C95F7547491DE80B17AB3F2D09BEF885F8AE7ECFD90C5DA1076
   ProductCode: Firefox Developer Edition 129.0 (arm64 nn-NO)
 - InstallerLocale: pa-IN
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/pa-IN/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: D4D3CC4CBB60C2BBF770BE5B59C4B6CA4456EF6D36CE27024B7B7487A21A03E1
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/pa-IN/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 58A9370D7694D68667E2B3BBE40919F6525A09015BAC11678F6EC23401CFF5AA
   ProductCode: Firefox Developer Edition 129.0 (x86 pa-IN)
 - InstallerLocale: pa-IN
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/pa-IN/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: C0AC6C6F28579B8473371DF7F777B2E09E013F800B231DABE613B3765FCBE802
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/pa-IN/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 5E8E639DF6484BB8AE9852D86273DA3FB047AB3AB365032BFD2E3F02F777E0B6
   ProductCode: Firefox Developer Edition 129.0 (x64 pa-IN)
 - InstallerLocale: pa-IN
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/pa-IN/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 78BF5964C59565F193E17AD911917FA19251D7895666DD71498557AC22C16948
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/pa-IN/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 0A99B617477789CCC60D4BC98BB1BBDACA199207F5A28699E47AF962A13F9723
   ProductCode: Firefox Developer Edition 129.0 (arm64 pa-IN)
 - InstallerLocale: pl
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/pl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 0BAFA52A3DF43960A9266E088EDC366CC365E5042BD9364C1BC0E8E688108A71
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/pl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: C103FAB1E38C8A82362ADFB00AF7EB166CC863A052617B66055C1701BF7DF9D3
   ProductCode: Firefox Developer Edition 129.0 (x86 pl)
 - InstallerLocale: pl
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/pl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A80384120953546B5A8C465B57B7FAE5D4D9CA84BBC80185808AC1AE89375681
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/pl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 92AAF12534A5097D76AE4F3B9924D30A98AF8F7184CECAE9CF8ECD526827F435
   ProductCode: Firefox Developer Edition 129.0 (x64 pl)
 - InstallerLocale: pl
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/pl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: F1D9410407F668DF9FCBCB85A3A267CE4F60799FE88C1DCD20883A21262ED877
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/pl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 1879149E119781DCA1ADF6EA7986DF71302EC0EDAE29DB653D512742C4BCDDB4
   ProductCode: Firefox Developer Edition 129.0 (arm64 pl)
 - InstallerLocale: pt-BR
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/pt-BR/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 6855F4E87FC4022ED043AE39297796F15741C3833548BEA9A138D1150A01E268
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/pt-BR/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: E5F78D420A2CD6C92DF0900694106914FA6C047E7DA0E5453CA674D54C3F1A3B
   ProductCode: Firefox Developer Edition 129.0 (x86 pt-BR)
 - InstallerLocale: pt-BR
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/pt-BR/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 598CC8276975B5DD7229269D622FB5C23E12728C15BA8CAEDA96C9B7E3E30821
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/pt-BR/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F8992962602A74F964C29F43AF3C3E0566E07A72B4ADC0FA0C3F556EC4E98E1D
   ProductCode: Firefox Developer Edition 129.0 (x64 pt-BR)
 - InstallerLocale: pt-BR
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/pt-BR/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 6088323180DAD004911009D694395460232F319B45FCA7D257534F934BFBA61A
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/pt-BR/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 52A7D675D4D172AFB2C55BEF2DCEA99BB0534D67208AEE9F8BA900C1D61C1A62
   ProductCode: Firefox Developer Edition 129.0 (arm64 pt-BR)
 - InstallerLocale: pt-PT
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/pt-PT/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 74B814B118516CEB75F65E8981530374E8765D56244EC5C8EC0828B30F0E270E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/pt-PT/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 8A8D33DF075BA2EF09B0E7D2CE417E9BB0BE101148DA1DAB44E0970B6E72AC4E
   ProductCode: Firefox Developer Edition 129.0 (x86 pt-PT)
 - InstallerLocale: pt-PT
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/pt-PT/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 81DF7ED585556F8093E5D4EA6ABED86DC265342038BBBBD93D68DBD0D8D444E0
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/pt-PT/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: DA6A7E0D776A48BFA7C3045D72297C75DF05EF2CF93780308FDFD1508B3FE081
   ProductCode: Firefox Developer Edition 129.0 (x64 pt-PT)
 - InstallerLocale: pt-PT
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/pt-PT/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 2BFBBA2D68BACDC88CFF08143B43EAD2A65E7C0ED9839145AA55F221660405B1
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/pt-PT/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 2ED34E222161307854EA022BE31131B957473F3D6A2B4D342F42D6DBFB6054CF
   ProductCode: Firefox Developer Edition 129.0 (arm64 pt-PT)
 - InstallerLocale: rm
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/rm/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 84292FE55BBEA044B9F007AA841335ECDA077E907E091CA4FAAA7BA220B89C02
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/rm/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 07764F9EBFC1D4A24CA1A5C233BBC229521A0C9A0484330BB22EF4BDBFBD58E7
   ProductCode: Firefox Developer Edition 129.0 (x86 rm)
 - InstallerLocale: rm
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/rm/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: D6CB116484FBEEFDC6B0A2BB42C7B0C31E7395B5490B3C12ED00E39782DBDAC3
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/rm/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 55B48A09822367E555E8E7C20F5361DF9A51F15AF6351D0E23294B3020FE0F07
   ProductCode: Firefox Developer Edition 129.0 (x64 rm)
 - InstallerLocale: rm
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/rm/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 9D9944BE7F5858F16788350210CAFBAAB191698382F3A7CE3C57365CEEC0B0C8
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/rm/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 577F8604D0F9038AE5796B24A36673DABC9464410AF87ABB15FC96EE59917D3F
   ProductCode: Firefox Developer Edition 129.0 (arm64 rm)
 - InstallerLocale: ro
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ro/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 24CB8D584ED3F0A3891D73EA9717EAA637E00BE4310CCE34AA5EFB0E5CA90113
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ro/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: C9FD48707F521541508B660018B7643EABD589EEB085035FCD1A6B79B771BF27
   ProductCode: Firefox Developer Edition 129.0 (x86 ro)
 - InstallerLocale: ro
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ro/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 3E41BF24A1F0871FA800A5F1BD9D50451CFBA722987E33CED08767FA85F4FEE2
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ro/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F7933D81AB490AC6A894B7AF54C2ED8BE7BE4802AA5AA8A4DF22E7BD1AD44CC7
   ProductCode: Firefox Developer Edition 129.0 (x64 ro)
 - InstallerLocale: ro
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ro/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: BF2A717A1FE14C36E4625A4F686CB077E5EC9CDABC01D83A9BA182700B81133D
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ro/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 90B5DD826E36B4A5EE2FD18A94C0DE33BC7DA1D7B1C7A5F0CE8126F704047CCE
   ProductCode: Firefox Developer Edition 129.0 (arm64 ro)
 - InstallerLocale: ru
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ru/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 015F432B9767C01D1AC8F288C9A97AA83F39C04F06C3BBDDFEA44B240CA1E10A
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ru/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: AD154A2CFE1144AA7BDF38B572BA304815998D586E40E21E3FC77BE15392CD86
   ProductCode: Firefox Developer Edition 129.0 (x86 ru)
 - InstallerLocale: ru
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ru/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 40835A8F2DE9290E04AEF394D15508C60DB5C30BB2060F7A97449B7E96292A69
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ru/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: CE57B4F9B1C1FE6AB1D10E7D6A80CF7FDB656AE6C3FD9A190D591EF65E65FC73
   ProductCode: Firefox Developer Edition 129.0 (x64 ru)
 - InstallerLocale: ru
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ru/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 6F1FCF46AD70F3122F91FABD8A767DE445FD55B2FF27767C4CD428DD6920020C
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ru/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 1643823FDBF1AC3A546EC601A5AF22A06C1BD005BE570CAC550DB1034B3C3BF1
   ProductCode: Firefox Developer Edition 129.0 (arm64 ru)
 - InstallerLocale: sk
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/sk/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 1E964941E576AD6076DB2E54AD091475C4868276641D05BC58113E97905717AE
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/sk/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 15D076C0116D3E2E90130631F46FD4C24DEAA0B1DA4CDFFE8F463EA20B2D07F0
   ProductCode: Firefox Developer Edition 129.0 (x86 sk)
 - InstallerLocale: sk
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/sk/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 26503E97FD373FFD0E5A0A072A30B16283ABC7403563D30375861CE7BAC3E5C4
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/sk/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 57318CE08624644E184E19DF454BDA3A25A744E851ACC6A89EDB0B11BFD54460
   ProductCode: Firefox Developer Edition 129.0 (x64 sk)
 - InstallerLocale: sk
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/sk/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 3B0DA1843D4892CCB4AB0F8481C4C77BFFE3461C33377C8DACBA3077C362E78E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/sk/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 82B2C52542BBF338E033962FDFCE722F6D147BFB738F552705AB3FC4AA5A8614
   ProductCode: Firefox Developer Edition 129.0 (arm64 sk)
 - InstallerLocale: sl
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/sl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: F6CD96F4717D56498F906BC35663B1572843FBA337F8760B186C8A7C2E78A639
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/sl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: C46071B931A6D8F42D0E741C95324F7EC88835FB2A39422EAB12C158747FC9F6
   ProductCode: Firefox Developer Edition 129.0 (x86 sl)
 - InstallerLocale: sl
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/sl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: F899FAC2AE2BF52541E7F8D927B3A461C74A128B537878DE752005650E32E07E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/sl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: D4B68A8939D442429503D6A5C8B6B5A683D2588BCE0B3F37480B57F91F9125B1
   ProductCode: Firefox Developer Edition 129.0 (x64 sl)
 - InstallerLocale: sl
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/sl/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4FAC7CFBFDB8875CA85CF8FCFE03495182FE003773B1F7AF78D4596A0AE8D3C7
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/sl/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 3B54EAAA6C0B1715ECDA9C3088EBC23BCA23FE7CF8C8EF056C0A64FC0B608655
   ProductCode: Firefox Developer Edition 129.0 (arm64 sl)
 - InstallerLocale: sq
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/sq/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 781B2AA2C2EE5878DA0FE5CCCDAC81C64821104EC6C9963F82E80A8542A0AD41
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/sq/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: A05584CE1DB0AD9C221912E6ADBB8342CA3273412A91349F1A67B146241236EF
   ProductCode: Firefox Developer Edition 129.0 (x86 sq)
 - InstallerLocale: sq
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/sq/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: E13B0EBFA97D7AA4D72F4E3717DF0B1F8A2344D7644112161B5478052A52F60E
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/sq/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 680771D83E43888CCDF55AE2E93C125A8F98DA7B87547697B1F6FC330D23C7FA
   ProductCode: Firefox Developer Edition 129.0 (x64 sq)
 - InstallerLocale: sq
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/sq/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: A9BA7E615BCE931FA9F8F045B01F1FC3326ED074E6762BC5B3BC371A1EF2E8E1
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/sq/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 5FC4B6DB5CEBB84F7ECBF1835CB4B9AFE4E25E10905C51ED4AA7CD53DCFE4C2A
   ProductCode: Firefox Developer Edition 129.0 (arm64 sq)
 - InstallerLocale: sr-Cyrl
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/sr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: ABC46E3EB4E665142ED56FD7D0C6B0CEA8F20BABB756446ABD2AC05114ABFD81
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/sr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 9706811A842F2E1A3394CA0BE5521CDE7A5FF8EFA82DA423920CC4F93B94F196
   ProductCode: Firefox Developer Edition 129.0 (x86 sr)
 - InstallerLocale: sr-Cyrl
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/sr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 7BA4262628541837AD89DD7EDDA65317C6F501FB58B0E274F2762D16C0C485D4
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/sr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 7F806F439FF70E60AA2AD83BDA6232FC032478DA279356CACAFF8CDA43F6A336
   ProductCode: Firefox Developer Edition 129.0 (x64 sr)
 - InstallerLocale: sr-Cyrl
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/sr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 1AC4B5075BB2DEC4FB313D0AEC53A7C70CA302AF2E8B84DBDD42FD9969F4057B
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/sr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: D2077567EDFC5DEC3DC66F8F2CCFFFE462AD24D9603C9BC7022F4C786429668F
   ProductCode: Firefox Developer Edition 129.0 (arm64 sr)
 - InstallerLocale: sv-SE
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/sv-SE/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 2974273139ADC0B7B93CE774A3C5EF8CC5E0F073C6A84327D54318A6F1468AD3
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/sv-SE/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F8297C7A3B9ABC030259E1EE2A047B632C1D641379EF360A7EAA1E52CDE64BCB
   ProductCode: Firefox Developer Edition 129.0 (x86 sv-SE)
 - InstallerLocale: sv-SE
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/sv-SE/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: B7A0D5E417B82756FEDFA2828C39813678C58A5FD25EB87D9FA7E87E6535DE0C
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/sv-SE/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 88E26835EEBE34A8FBCCC6B3D03A9EF984A355ADE339DD6527140866CBDCC5A9
   ProductCode: Firefox Developer Edition 129.0 (x64 sv-SE)
 - InstallerLocale: sv-SE
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/sv-SE/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: E291C6E0CE6C10C0F554D17AB97CDAD80B93F22147F56CC31931DA2CC0A2A4AB
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/sv-SE/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 793D22356D1A9D69C09F31A976DC2C839FF6131006C3F049205D2F01BE3A6929
   ProductCode: Firefox Developer Edition 129.0 (arm64 sv-SE)
 - InstallerLocale: ta
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ta/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 8A2328E3244ACD5EFB2DA6D26A360BAD387E04B8FA23F2CEB399BCCB771DAD08
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ta/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 931C1A10412BEDA5256AA17EA93A7B671798995741A51C3A0DEC1A8596136B67
   ProductCode: Firefox Developer Edition 129.0 (x86 ta)
 - InstallerLocale: ta
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ta/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: CFB1E5C883233BFCF0EBA11842DE584E20B19077F13015E9C5C843902E392E4C
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ta/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 2F47FA49ECC6EEC5DC8AAC90AAC80544A6B91C35BA7F128455BA622FEFBEF5F3
   ProductCode: Firefox Developer Edition 129.0 (x64 ta)
 - InstallerLocale: ta
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ta/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: AC5DD21C79BA6E605EA51C956E07C146D3DECEA1FB9FFCBB4349896F2BAA48D7
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ta/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 1D63E8E1C949B2B081A9D99CE7C87AC63FD62AE4FEEC0F00C9FC9F53A7A13AAC
   ProductCode: Firefox Developer Edition 129.0 (arm64 ta)
 - InstallerLocale: th
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/th/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4B6F70CE7D4AEDB5FD32C75CA472632DD7C8558237A5EC43D6093DEA85DD3DE7
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/th/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: FF3F88A393FD4DD7E401903D48F545004176344347DCD1E72AC1575F341C7034
   ProductCode: Firefox Developer Edition 129.0 (x86 th)
 - InstallerLocale: th
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/th/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 070B2F1F4B2446E59C7A02B43B93498FBFA1A3CD3BB22D6A64701C8BCFD9C642
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/th/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 3A9FF3FC9D55FFB7CC643A188CE7DA07A312624958A7591F01435EC829C32B9C
   ProductCode: Firefox Developer Edition 129.0 (x64 th)
 - InstallerLocale: th
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/th/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 1212B0692D0032004F85786594A30657B522ABA4DD175E7E43E316293EBC4976
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/th/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 1B30F6C33818D5B16FEA2F08750683D1DEC5A1D652AD93D15304CE420649B847
   ProductCode: Firefox Developer Edition 129.0 (arm64 th)
 - InstallerLocale: tr
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/tr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: FF932C1B53714271A8D56839031FBD13C51BC8778F2C2FBB455A046CEAFEB5AC
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/tr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 0922D638BA8C8355530BABBD5016ACC006772695BDF03F8B6E5FA0F3D9767C9C
   ProductCode: Firefox Developer Edition 129.0 (x86 tr)
 - InstallerLocale: tr
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/tr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 6BE09D400AF2E7767D2F567DC6B78955AC70ECB082C002958E9F947711BFFD35
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/tr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: D97C3D100A59DCF91EED8386212EA51C9818D5A810572A8F4B1FE189D5A3C40F
   ProductCode: Firefox Developer Edition 129.0 (x64 tr)
 - InstallerLocale: tr
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/tr/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: CB527C37F1ABF4E99BF128DB5D3775C8E13590AA36EE2C5DB62B18F4EE78CAD8
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/tr/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 7032531CDE2A00FF3FA2E3A9E6F67BB00A52BA7A69A6F85A4B558BDD69648D1A
   ProductCode: Firefox Developer Edition 129.0 (arm64 tr)
 - InstallerLocale: uk
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/uk/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 29AA6480445DB47CA32D3FC4527D4357D1D107A6F65325949BFF0441C11F8278
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/uk/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: B9F8A557E93D9B4350C6C0680EDDE46EB4286A4A293E37806E4EB173D29E6B26
   ProductCode: Firefox Developer Edition 129.0 (x86 uk)
 - InstallerLocale: uk
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/uk/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 6E0509E01ABD8BB6E9AC7C7E0A90FC386C10DB5A25165DD56EB887CE4B5D738B
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/uk/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: A0DBC0A075D8244119CCABD04302A1CA47A60FB9722D555B70599F6672656F33
   ProductCode: Firefox Developer Edition 129.0 (x64 uk)
 - InstallerLocale: uk
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/uk/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 7FF8F59FD020F35AB0EB6A31F3909AA5F58B35D593C83718C25D2CD8079B88AC
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/uk/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: D11F9B6FE90006DBE3F7C7AC1D72B652DE2EABCF7991362BDEE0F16F8BA54C99
   ProductCode: Firefox Developer Edition 129.0 (arm64 uk)
 - InstallerLocale: ur
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/ur/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: F8589DE898D555BD9E49D51E4CCBDFDED97BFF6806E32D130B77F423B45D64DD
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/ur/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 107EDFB312738EBC520E32CF335B62BD44805A1E81E1E457CF021ECA63E24C1F
   ProductCode: Firefox Developer Edition 129.0 (x86 ur)
 - InstallerLocale: ur
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/ur/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 0CB00902DC77A0E3CE1676ED9628CF8E0AE637491A8B1759804EA429A5E4B84D
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/ur/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 74D50003D3130718D2C35BED226B41C97E9781B69CA66606D27912C04C4B4DB4
   ProductCode: Firefox Developer Edition 129.0 (x64 ur)
 - InstallerLocale: ur
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/ur/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 7278E5A5CF7EF493FD2C7A14E5244E66B4BE19B73F1913FD958F23CC4A5D7A4F
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/ur/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 0C7D6CED0E05EA24032EA851103D28BC76B56247EF1CE71F48616B2869DB5B56
   ProductCode: Firefox Developer Edition 129.0 (arm64 ur)
 - InstallerLocale: uz-Latn
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/uz/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 925A985E1B80D3C8AF1766C5EFCD9EEB0A74D6B5038919EAF586F7AFB4D8FEF1
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/uz/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 9E32E007CC6B64DE612114469EA15FA80D0E1EFB02545C427533952A3803819B
   ProductCode: Firefox Developer Edition 129.0 (x86 uz)
 - InstallerLocale: uz-Latn
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/uz/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 76A4B083E1BA9DA9C835D0967FCC585CC993F31F43C25D43191BD1BA5137EB93
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/uz/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 304EA3CA2C18EF87D6117665DF51EFB1D57952285D0E46562B5CC8840147CA8E
   ProductCode: Firefox Developer Edition 129.0 (x64 uz)
 - InstallerLocale: uz-Latn
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/uz/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: BCC1E57645457C9D11F017C166774FF2F6E895C62FC59C7FDF1A258F3EC820EF
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/uz/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: A8B99BCFF1B74A5AE87BD7D371CDE3FD4C9C82381D2729BFB823E2C483C7EBD2
   ProductCode: Firefox Developer Edition 129.0 (arm64 uz)
 - InstallerLocale: vi
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/vi/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 0CC99E7491794A7A0C3EBB81AE0E8D13D2F4C566979D4A2F780E3523ADDBE065
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/vi/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: F409DDF5C0228AD7E5DE0A1061E9909B3195F4D34D7B16D22DD124309B2EB633
   ProductCode: Firefox Developer Edition 129.0 (x86 vi)
 - InstallerLocale: vi
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/vi/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 317941F26189CFAB5B91F0F231468D9AA94D8BCAB612C41CB5DF87854F04591C
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/vi/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 2C6387E62186BECF147A028629FD377B82172C4665F948C9BC86E6887C5CC0E3
   ProductCode: Firefox Developer Edition 129.0 (x64 vi)
 - InstallerLocale: vi
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/vi/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: F0E05A670DCBA8E38B33D7092D8E7A66090AFE9258D29DC185DE97687246ADF3
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/vi/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 858A14E4E1B0B5161D5C6EB579F946C14C31553C50A3C50968C228C740872A9B
   ProductCode: Firefox Developer Edition 129.0 (arm64 vi)
 - InstallerLocale: zh-CN
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/zh-CN/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: EE16E2E3D5EE0A12914D259E4CA7EAE9DB0874519C6974195847BF6A4550E7C5
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/zh-CN/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: CA94BEC0BD80D51BC00C0698E2A66583A5F19691EC2803A38EC955299A857555
   ProductCode: Firefox Developer Edition 129.0 (x86 zh-CN)
 - InstallerLocale: zh-CN
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/zh-CN/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: ADE1CF804F420B9304FA823F990D72413D66F672EB84A7DD1B0575CEC1A724E2
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/zh-CN/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 7B675BED6C0260D32BF7B59704C0E4E46F989FCDDC38F402281D18F9ED277BF6
   ProductCode: Firefox Developer Edition 129.0 (x64 zh-CN)
 - InstallerLocale: zh-CN
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/zh-CN/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 9D1AC3E59D4C3B6DF3D77E0E39294982A37F6BD721B18286395389DEEA87F23D
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/zh-CN/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 71B3629A339A93FC3B767513E0243AA2143D816CC27BCDC58222AF76DCF6C3E7
   ProductCode: Firefox Developer Edition 129.0 (arm64 zh-CN)
 - InstallerLocale: zh-TW
   Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win32/zh-TW/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: CA0BCC0E4932324C3ECACACAF90F5A7D0BB0AEA59CF4DB24E287D138CDBCFE01
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win32/zh-TW/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: CC86ABE73EF03B6EC34ED2D1EF0998BA9E4E428E223989D5BFD087DBF50CFA6D
   ProductCode: Firefox Developer Edition 129.0 (x86 zh-TW)
 - InstallerLocale: zh-TW
   Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64/zh-TW/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 47A51A9AC6334564B7A72CEF3C5D2B6EAD0E12F088980F59D3B39B21ED9E8CC1
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64/zh-TW/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: 11156B7304CFB1C5FDB5C25FADDA30C2C424CEE501C1A1A3D9DE0E8DA1B5FB61
   ProductCode: Firefox Developer Edition 129.0 (x64 zh-TW)
 - InstallerLocale: zh-TW
   Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b6/win64-aarch64/zh-TW/Firefox%20Setup%20129.0b6.exe
-  InstallerSha256: 4B1BD6B415C1D094F4D13E2086A0C2ACA61DA61DFF667FE23D1C6DFB6D2A5A87
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/129.0b8/win64-aarch64/zh-TW/Firefox%20Setup%20129.0b8.exe
+  InstallerSha256: D96B2564D30B42ED1F97D8EA6230D8249491C269039335393C6E83714E963624
   ProductCode: Firefox Developer Edition 129.0 (arm64 zh-TW)
 ManifestType: installer
 ManifestVersion: 1.6.0
