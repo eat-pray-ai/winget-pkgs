@@ -7,20 +7,20 @@ Commands:
 InstallerType: inno
 Installers:
   - Architecture: arm64
-    InstallerUrl: 'https://vscode.download.prss.microsoft.com/dbazure/download/insider/0ca72abae2123195125c9809525eb07f63da0e53/VSCodeSetup-arm64-1.95.0-insider.exe'
-    InstallerSha256: 39b11fcd9148db17f41927c4133add0a4368a0f4fdd84c8015dd00189ef1dae9
+    InstallerUrl: 'https://vscode.download.prss.microsoft.com/dbazure/download/insider/4b4bf8f594077c3dc53ef70518531f64ed566194/VSCodeSetup-arm64-1.95.0-insider.exe'
+    InstallerSha256: 299023dd046f7f6257a96e05e3f1a9032c46186bb3440faa78f9dce8778a7b7b
     Scope: machine
   - Architecture: arm64
-    InstallerUrl: 'https://vscode.download.prss.microsoft.com/dbazure/download/insider/0ca72abae2123195125c9809525eb07f63da0e53/VSCodeUserSetup-arm64-1.95.0-insider.exe'
-    InstallerSha256: 89c6e865859a390ab1e686367d76eef2df64ade24a5d36d2e4ab75b97e4ad1c9
+    InstallerUrl: 'https://vscode.download.prss.microsoft.com/dbazure/download/insider/4b4bf8f594077c3dc53ef70518531f64ed566194/VSCodeUserSetup-arm64-1.95.0-insider.exe'
+    InstallerSha256: 4c1a384a8054f3a929ad1edbf47a9eb29e5236283db0a417e2dcfd16d84ae86a
     Scope: user
   - Architecture: x64
-    InstallerUrl: 'https://vscode.download.prss.microsoft.com/dbazure/download/insider/0ca72abae2123195125c9809525eb07f63da0e53/VSCodeSetup-x64-1.95.0-insider.exe'
-    InstallerSha256: 83539f43ee4f4c2ea7c7e03de9a1142fb13f193b676610f9e8882ba19ba97dd0
+    InstallerUrl: 'https://vscode.download.prss.microsoft.com/dbazure/download/insider/4b4bf8f594077c3dc53ef70518531f64ed566194/VSCodeSetup-x64-1.95.0-insider.exe'
+    InstallerSha256: d12615ca8f46538a64e1efde4110c42e63a2ff5b5aadea9c469bb34da22766ef
     Scope: machine
   - Architecture: x64
-    InstallerUrl: 'https://vscode.download.prss.microsoft.com/dbazure/download/insider/0ca72abae2123195125c9809525eb07f63da0e53/VSCodeUserSetup-x64-1.95.0-insider.exe'
-    InstallerSha256: e8fea52113ea463f2547e359945d3e3b9bc22a765cbbbd540c3835b5ff3f0caa
+    InstallerUrl: 'https://vscode.download.prss.microsoft.com/dbazure/download/insider/4b4bf8f594077c3dc53ef70518531f64ed566194/VSCodeUserSetup-x64-1.95.0-insider.exe'
+    InstallerSha256: eaf26b292fb9a961434f9db3dd76b24718282d118de4b8a300c9b0ed8eb55206
     Scope: user
 ManifestType: installer
 ManifestVersion: 1.5.0
